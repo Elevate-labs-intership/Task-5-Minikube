@@ -142,13 +142,13 @@ minikube stop
 
 ## Screenshots
 
-![Minikube Setup](images/Screenshot%202025-08-11%20at%2011.01.35PM.png)
+![Minikube Setup](images/Screenshot%202025-08-11%20at%2011.01.35%E2%80%AFPM.png)
 
-![Deployment Status](images/Screenshot%202025-08-15%20at%2012.34.06PM.png)
+![Deployment Status](images/Screenshot%202025-08-15%20at%2012.34.06%E2%80%AFPM.png)
 
-![Pod Information](images/Screenshot%202025-08-15%20at%2012.34.15PM.png)
+![Pod Information](images/Screenshot%202025-08-15%20at%2012.34.15%E2%80%AFPM.png)
 
-![Service Access](images/Screenshot%202025-08-15%20at%2012.35.11PM.png)
+![Service Access](images/Screenshot%202025-08-15%20at%2012.35.11%E2%80%AFPM.png)
 
 ## Application Details
 
